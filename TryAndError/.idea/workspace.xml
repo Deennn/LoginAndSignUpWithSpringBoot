@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="55e6886d-fcef-4300-a769-3267ed7a6bc0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Data_Structure_v1/Data_Structure_v1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JohnnyAndCo/JohnnyAndCo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JohnnyAndCo/src/Product/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JohnnyAndCo/src/shoppingCart/AddToCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JohnyAndCO/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JohnyAndCO/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JohnyAndCO/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JohnyAndCO/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JohnyAndCO/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JohnyAndCO/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JohnyAndCO/src/main/java/Enums/Brands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JohnyAndCO/src/main/java/Enums/Categories.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JohnyAndCO/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JohnyAndCO/src/main/java/Model/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JohnyAndCO/src/main/java/Model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JohnyAndCO/src/main/java/Model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JohnyAndCO/src/main/java/Model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JohnyAndCO/src/main/java/Model/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JohnyAndCO/src/main/java/Services/AdminServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JohnyAndCO/src/main/java/Services/CustomerServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Problems/Problems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReadAndWrite/src/main/java/com/deenn/data.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../companySolution/.idea/companySolution.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/artifacts/deenn_store_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/artifacts/deenn_store_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_6_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__com_sun_xml_messaging_saaj_saaj_impl_1_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__jakarta_jws_jakarta_jws_api_2_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__jakarta_ws_rs_jakarta_ws_rs_api_2_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__jakarta_xml_soap_jakarta_xml_soap_api_1_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__jakarta_xml_ws_jakarta_xml_ws_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_11_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__org_apache_cxf_cxf_core_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__org_apache_cxf_cxf_rt_bindings_soap_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__org_apache_cxf_cxf_rt_bindings_xml_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__org_apache_cxf_cxf_rt_databinding_jaxb_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__org_apache_cxf_cxf_rt_frontend_jaxrs_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__org_apache_cxf_cxf_rt_frontend_jaxws_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__org_apache_cxf_cxf_rt_frontend_simple_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__org_apache_cxf_cxf_rt_security_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__org_apache_cxf_cxf_rt_transports_http_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__org_apache_cxf_cxf_rt_ws_addr_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__org_apache_cxf_cxf_rt_ws_policy_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__org_apache_cxf_cxf_rt_wsdl_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_jta_1_1_spec_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__org_apache_neethi_neethi_3_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__org_apache_ws_xmlschema_xmlschema_core_2_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_4_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__org_hibernate_hibernate_core_5_6_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_2_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__org_jboss_jandex_2_2_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__org_ow2_asm_asm_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__wsdl4j_wsdl4j_1_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/libraries/Maven__xml_resolver_xml_resolver_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/deenn_store.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/src/main/java/com/example/deenn_store/book/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deenn_store/src/main/java/com/example/deenn_store/book/BookDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/deenn/tryanderror/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/deenn/tryanderror/HelloServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="26zNjaWSvBxFqJlalyBV0rNm508" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55e6886d-fcef-4300-a769-3267ed7a6bc0" name="Changes" comment="" />
+      <created>1648422596220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648422596220</updated>
+      <workItem from="1648422598303" duration="3000" />
+    </task>
+    <servers />
+  </component>
+</project>
